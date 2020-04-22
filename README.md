@@ -9,7 +9,7 @@ This is the first part of a python based system to analyse news headlines publis
 
 This script uses 3 alternatives for extracting location names:
 
-* A regular exression only
+* The geonames cache installed locally
 * A local instance of MySQL which has had the geonames data installed
 * The Geonames services which is accessed using a REST based API call
 
